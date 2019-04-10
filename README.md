@@ -1,1 +1,1 @@
-# GUIpitchFinder
+# GUIpitchFinder - program whiich will allow you to sort by pitcher, pitch type, and ball and strike counts. You will need two extra files from Kaggle. Download 'atbats' and 'pitches' here: https://www.kaggle.com/pschale/mlb-pitch-data-20152018
